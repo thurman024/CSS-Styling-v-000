@@ -20,3 +20,13 @@ figcaption {font-weight: normal;
   font: bold 2.6em 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;}
+
+/* ID selector (only 1 element per page) */
+#logo {background: aqua;}
+
+/* Descendent selector  */
+#logo h1 {/*Only styels h1 within element 'logo' */
+  font-f: 'Clicker Script', cursive;}
+
+  #logo h2 {/*Only styels h1 within element 'logo' */
+    font-f: 'Elsie Swash Caps', cursive;}
