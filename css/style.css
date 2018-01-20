@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
 /* CSS styleshteet
 
 Syntax:
@@ -10,4 +12,6 @@ line-height: 1.5em;}
 figcaption {font-weight: normal;
   font-size: 0.75em;
   line-height: 1.5em;
-  font-family: Georgia, "New Times Roman", serif;}
+  font-family: 'Elsie Swash Caps', cursive;;
+  color: #777;
+  text-align: right;}
